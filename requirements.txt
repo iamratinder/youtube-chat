@@ -8,6 +8,7 @@ langchain-core
 langchain-community
 langchain-pinecone
 langchain-groq
+langchain-huggingface
 
 sentence-transformers
 pydantic
