@@ -7,6 +7,6 @@ langchain-pinecone==0.0.3
 pinecone-client==3.0.2
 langchain-groq==0.1.0
 langchain-core==0.1.40
-langchain-community==0.0.24
+langchain-community==0.0.37
 sentence-transformers==2.5.1
 pydantic==2.6.1
